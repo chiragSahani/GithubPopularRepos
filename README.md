@@ -58,14 +58,6 @@ Where `language` parameter can be:
 - JAVA
 - CSS
 
-## Screenshots
-
-### Success View
-[Success View](https://assets.ccbp.in/frontend/content/react-js/github-repos-lg-success-outputure) 
-### Failure View
-[Failure View](https://assets.ccbp.in/frontend/content/react-js/github-repos-error-view-lg-output.ew)
-### Loading View
-[Loading View](https://assets.ccbp.in/frontend/content/react-js/github-repos-lg-loading-output.gn)
 
 The application is fully responsive and works well on:
 - 📱 Mobile devices (< 576px)
