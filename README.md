@@ -3,7 +3,7 @@
 
 ## Demo
 
-[GitHub Popular Repos](https://assets.ccbp.in/frontend/content/react-js/github-popular-reposures)
+[GitHub Popular Repos](https://chiraggithub.ccbp.tech/)
 
 - 🌟 View popular GitHub repositories
 - ⚙️ Filter repositories by programming language (All, JavaScript, Ruby, Java, CSS)
