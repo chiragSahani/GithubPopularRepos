@@ -1,0 +1,63 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.responsive-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  max-width: 1140px;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Lobster', cursive;
+  font-size: 48px;
+  margin-bottom: 48px;
+}
+
+.filters-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 32px;
+}
+
+.repositories-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-view-image {
+  width: 250px;
+  height: 180px;
+}
+
+.error-message {
+  color: #1e293b;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+}
